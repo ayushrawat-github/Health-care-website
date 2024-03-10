@@ -12,9 +12,13 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-icons": "^5.0.1",
     "react-router-dom": "^6.22.2",
     "sweetalert2": "^11.10.6"
+=======
+    "react-router-dom": "^6.22.2"
+>>>>>>> e78b610b985ac27a43bdda9a81a926910aa22658
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
